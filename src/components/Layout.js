@@ -194,7 +194,7 @@ export default function Layout({ children, index }) {
           </div>
           <div className="flex justify-end gap-2 basis-1/3 max-lg:basis-2/3">
             <a
-              href="https://miccopay-business.web.app/"
+              href=""
               className="inline-flex items-center relative overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-lg hover:border-black hover:bg-black hover:text-white border-[2px] border-white !border-opacity-10 group-[.lqd-is-sticky]/header:border-black text-white group-[.lqd-is-sticky]/header:text-black group-[.lqd-is-sticky]/header:hover:text-white py-2 px-4 rounded-lg font-medium"
             >
               <span className="inline-flex items-center relative z-10">
@@ -382,7 +382,7 @@ export default function Layout({ children, index }) {
               <ul className="flex flex-wrap items-center gap-7 text-[14px] max-sm:justify-center">
                 <li>
                   <a
-                    href="https://www.linkedin.com/company/miccopay"
+                    href="https://www.linkedin.com/company/platbook/"
                     className="inline-flex items-center gap-2"
                   >
                     <svg
@@ -414,7 +414,7 @@ export default function Layout({ children, index }) {
                 All rights reserved
               </p>
               <p className="text-center mb-4">
-                Privicay Policy
+                Privacy Policy
                 <span className="inline-block ml-3">
                   <img
                     className="inline-block"

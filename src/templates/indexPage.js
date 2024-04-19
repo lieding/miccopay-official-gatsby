@@ -214,7 +214,7 @@ export default function Index(props) {
                     <h4 className="mb-3 font-bold">Dish Diary</h4>
                     <p className="text-[14px]">
                       Save your favourite dishes and places, revisit them
-                      anytime in your dish diary
+                      anytime in your dish diary.
                     </p>
                   </div>
                 </div>
@@ -229,11 +229,7 @@ export default function Index(props) {
                     />
                   </figure>
                   <div className="pt-6 relative shrink">
-                    <h4 className="mb-3 font-bold">
-                      Personnalisation du
-                      <br />
-                      QR code
-                    </h4>
+                    <h4 className="mb-3 font-bold">Foodie Community</h4>
                     <p className="text-[14px]">
                       Share and connect with fellow travelers and food lovers in
                       our community.
