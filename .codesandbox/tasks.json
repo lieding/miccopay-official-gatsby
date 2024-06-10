@@ -15,7 +15,10 @@
     },
     "develop": {
       "name": "develop",
-      "command": "yarn develop"
+      "command": "yarn develop",
+      "preview": {
+        "port": 8000
+      }
     },
     "format": {
       "name": "format",
